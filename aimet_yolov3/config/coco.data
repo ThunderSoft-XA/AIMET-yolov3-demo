@@ -1,0 +1,6 @@
+classes= 80
+train=/home/thundersoft/Desktop/2022/Q1-3/aimet_yolov3/data/40.txt
+valid=/home/thundersoft/Desktop/2022/Q1-3/aimet_yolov3/data/40.txt
+names=/home/thundersoft/Desktop/2022/Q1-3/aimet_yolov3/data/coco.names
+backup=backup/
+eval=coco

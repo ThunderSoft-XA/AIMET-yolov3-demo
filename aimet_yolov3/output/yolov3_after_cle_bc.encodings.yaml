@@ -1,0 +1,2264 @@
+activation_encodings:
+  '1108':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.465132713317871
+    min: -8.878132820129395
+    offset: -93
+    scale: 0.09546378640567556
+  '1113':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.499735474586487
+    min: -0.9003995656967163
+    offset: -14
+    scale: 0.06431425505993413
+  '1120':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.499735474586487
+    min: -0.9003995656967163
+    offset: -14
+    scale: 0.06431425505993413
+  '1141':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.200021743774414
+    min: -9.161304473876953
+    offset: -100
+    scale: 0.09161304399078968
+  '1146':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.18966943025589
+    min: -0.886854350566864
+    offset: -15
+    scale: 0.059123622669893156
+  '1149':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.82846736907959
+    min: -13.0895414352417
+    offset: -124
+    scale: 0.10556081884047565
+  '1154':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.825478076934814
+    min: -1.3054099082946777
+    offset: -22
+    scale: 0.05933681562835095
+  '1157':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.543890953063965
+    min: -8.477141380310059
+    offset: -127
+    scale: 0.06674914640538833
+  '1162':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.143376469612122
+    min: -1.6865395307540894
+    offset: -29
+    scale: 0.05815653333476945
+  '1165':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.699416160583496
+    min: -7.639265060424805
+    offset: -127
+    scale: 0.06015169106277765
+  '1170':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.99414587020874
+    min: -1.557833194732666
+    offset: -24
+    scale: 0.06490972182329963
+  '1173':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.750658988952637
+    min: -8.218194007873535
+    offset: -140
+    scale: 0.05870138430127911
+  '1178':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.338150978088379
+    min: -1.4610967636108398
+    offset: -27
+    scale: 0.05411469702627145
+  '1181':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.771334648132324
+    min: -15.176823616027832
+    offset: -114
+    scale: 0.1331300324084712
+  '1186':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.841418743133545
+    min: -1.5168938636779785
+    offset: -19
+    scale: 0.07983652002671186
+  '1189':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 5.265632629394531
+    min: -46.37808609008789
+    offset: -229
+    scale: 0.2025243871352252
+  '161':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.432798385620117
+    min: -16.908281326293945
+    offset: -122
+    scale: 0.13859246945848652
+  '1649':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 20.2689266204834
+    min: -11.246782302856445
+    offset: -91
+    scale: 0.12359101538564644
+  '1654':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 20.25330400466919
+    min: -1.0879874229431152
+    offset: -13
+    scale: 0.08369133893181296
+  '166':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.51860272884369
+    min: -1.6619259119033813
+    offset: -21
+    scale: 0.07913932800292969
+  '1661':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 20.25330400466919
+    min: -1.0879874229431152
+    offset: -13
+    scale: 0.08369133893181296
+  '1682':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.511516571044922
+    min: -10.39472770690918
+    offset: -121
+    scale: 0.08590684030570236
+  '1687':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.553707838058472
+    min: -1.0368711948394775
+    offset: -21
+    scale: 0.0493748197368547
+  '169':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.289697647094727
+    min: -18.382009506225586
+    offset: -148
+    scale: 0.12420277315027574
+  '1690':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.54277229309082
+    min: -6.491656303405762
+    offset: -127
+    scale: 0.05111540626077091
+  '1695':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.225616574287415
+    min: -1.329349398612976
+    offset: -27
+    scale: 0.04923516067804075
+  '1698':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.250285148620605
+    min: -11.969344139099121
+    offset: -101
+    scale: 0.1185083501479205
+  '1703':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.23744571208954
+    min: -1.2209168672561646
+    offset: -16
+    scale: 0.07630730423272825
+  '1706':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.696382522583008
+    min: -11.882181167602539
+    offset: -114
+    scale: 0.1042296615301394
+  '1711':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.715256690979004
+    min: -1.2523622512817383
+    offset: -20
+    scale: 0.06261811349906174
+  '1714':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 16.574209213256836
+    min: -16.188764572143555
+    offset: -126
+    scale: 0.12848225013882505
+  '1719':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 16.674052476882935
+    min: -1.5743739604949951
+    offset: -22
+    scale: 0.07156245661716835
+  '1722':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 19.910666465759277
+    min: -13.492096900939941
+    offset: -103
+    scale: 0.13099122888901654
+  '1727':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 19.80872344970703
+    min: -1.3261070251464844
+    offset: -16
+    scale: 0.08288168813668045
+  '1730':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 5.078815460205078
+    min: -44.73265838623047
+    offset: -229
+    scale: 0.19533911312327665
+  '174':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.322084426879883
+    min: -1.8436813354492188
+    offset: -31
+    scale: 0.05947359122482001
+  '177':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.281717300415039
+    min: -25.148523330688477
+    offset: -181
+    scale: 0.13894212012197457
+  '182':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.305648803710938
+    min: -2.5135726928710938
+    offset: -50
+    scale: 0.0502714568493413
+  '185':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.720235824584961
+    min: -16.080354690551758
+    offset: -153
+    scale: 0.10510035496132046
+  '190':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 21.487656831741333
+    min: -2.6504600048065186
+    offset: -28
+    scale: 0.09465928171195236
+  '192':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 21.303661584854126
+    min: -2.7336556911468506
+    offset: -29
+    scale: 0.09426398931765088
+  '194':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.795563697814941
+    min: -7.7346601486206055
+    offset: -127
+    scale: 0.06090283861347273
+  '199':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.826590299606323
+    min: -1.5189383029937744
+    offset: -27
+    scale: 0.05625697491215725
+  '202':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.377501010894775
+    min: -7.215657711029053
+    offset: -118
+    scale: 0.061149642046760114
+  '207':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.366025984287262
+    min: -0.7507972121238708
+    offset: -21
+    scale: 0.03575224782906326
+  '210':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.6737775802612305
+    min: -11.510666847229004
+    offset: -153
+    scale: 0.07523311540192248
+  '215':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.997955679893494
+    min: -1.9321285486221313
+    offset: -33
+    scale: 0.05854934991574755
+  '217':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.839781284332275
+    min: -2.057264804840088
+    offset: -33
+    scale: 0.06234135721244064
+  '219':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 5.217772483825684
+    min: -12.061860084533691
+    offset: -178
+    scale: 0.06776326497395833
+  '224':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 9.269108891487122
+    min: -1.7244852781295776
+    offset: -40
+    scale: 0.04311213399849686
+  '227':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.51927661895752
+    min: -15.696110725402832
+    offset: -137
+    scale: 0.11457014644847197
+  '232':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.533857464790344
+    min: -1.5365952253341675
+    offset: -26
+    scale: 0.05909981447107652
+  '234':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 18.54626214504242
+    min: -1.9268842935562134
+    offset: -24
+    scale: 0.08028684877881817
+  '236':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.695962905883789
+    min: -9.760658264160156
+    offset: -116
+    scale: 0.08414361243154489
+  '241':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.731179773807526
+    min: -0.9444593787193298
+    offset: -19
+    scale: 0.04970838883343865
+  '244':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.522584915161133
+    min: -6.783877372741699
+    offset: -153
+    scale: 0.04433906779569738
+  '249':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.370482921600342
+    min: -1.15022611618042
+    offset: -39
+    scale: 0.029492976618748085
+  '252':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 9.002090454101562
+    min: -10.451578140258789
+    offset: -137
+    scale: 0.07628889644847196
+  '257':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.93820309638977
+    min: -1.058471441268921
+    offset: -27
+    scale: 0.039202645245720355
+  '259':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.594728231430054
+    min: -1.0947811603546143
+    offset: -22
+    scale: 0.049762781928567326
+  '261':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 5.236784934997559
+    min: -6.375216484069824
+    offset: -140
+    scale: 0.045537260466930914
+  '266':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.2089204788208
+    min: -1.1360559463500977
+    offset: -31
+    scale: 0.03664696637321921
+  '269':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.039105415344238
+    min: -10.558659553527832
+    offset: -153
+    scale: 0.06901084301518459
+  '274':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.025004267692566
+    min: -1.0442572832107544
+    offset: -33
+    scale: 0.031644162944718904
+  '276':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.248942732810974
+    min: -1.222711205482483
+    offset: -25
+    scale: 0.048908446816837085
+  '278':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.281122207641602
+    min: -8.863975524902344
+    offset: -140
+    scale: 0.06331410875507429
+  '283':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.316713571548462
+    min: -0.8664529323577881
+    offset: -27
+    scale: 0.03209084903492647
+  '286':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 3.9754061698913574
+    min: -5.963109493255615
+    offset: -153
+    scale: 0.038974571228027347
+  '291':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 9.829859018325806
+    min: -0.9745118618011475
+    offset: -23
+    scale: 0.042370081882850796
+  '293':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.783284068107605
+    min: -1.57679283618927
+    offset: -28
+    scale: 0.05631402707567402
+  '295':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.262893676757812
+    min: -8.729347229003906
+    offset: -131
+    scale: 0.0666362388461244
+  '300':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.262070298194885
+    min: -0.8583968877792358
+    offset: -24
+    scale: 0.03576653798421224
+  '303':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.366618156433105
+    min: -9.265511512756348
+    offset: -134
+    scale: 0.069145606545841
+  '308':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.396637737751007
+    min: -0.9126779437065125
+    offset: -25
+    scale: 0.036507120319441255
+  '310':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.618124723434448
+    min: -1.6191399097442627
+    offset: -29
+    scale: 0.055832410326191025
+  '312':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.931572914123535
+    min: -9.967108726501465
+    offset: -142
+    scale: 0.07019090839460784
+  '317':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.882901668548584
+    min: -1.0115227699279785
+    offset: -29
+    scale: 0.03488009583716299
+  '320':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.878370761871338
+    min: -7.317555904388428
+    offset: -153
+    scale: 0.04782716339709712
+  '325':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.00105094909668
+    min: -1.1957664489746094
+    offset: -25
+    scale: 0.047830656463024666
+  '327':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 16.953157663345337
+    min: -2.175405263900757
+    offset: -29
+    scale: 0.07501397226371018
+  '329':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.141876220703125
+    min: -6.2128143310546875
+    offset: -153
+    scale: 0.04060662961473652
+  '334':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.508291125297546
+    min: -1.0075608491897583
+    offset: -27
+    scale: 0.03731706656661688
+  '337':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.807859420776367
+    min: -8.28782844543457
+    offset: -140
+    scale: 0.05919877594592524
+  '342':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.080268025398254
+    min: -1.4950264692306519
+    offset: -23
+    scale: 0.06500115488089767
+  '344':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 19.318010807037354
+    min: -2.5757346153259277
+    offset: -30
+    scale: 0.08585782518573835
+  '346':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.374688625335693
+    min: -5.325707912445068
+    offset: -140
+    scale: 0.03804077073639514
+  '351':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.73343276977539
+    min: -0.9632568359375
+    offset: -21
+    scale: 0.04586937100279565
+  '354':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.799720764160156
+    min: -8.277921676635742
+    offset: -140
+    scale: 0.05912800957174862
+  '359':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 21.144256114959717
+    min: -1.5103039741516113
+    offset: -17
+    scale: 0.08884141211416208
+  '361':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 26.18329119682312
+    min: -2.720341920852661
+    offset: -24
+    scale: 0.11334758085363052
+  '363':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.428190231323242
+    min: -5.390839576721191
+    offset: -140
+    scale: 0.03850599924723307
+  '368':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.467796742916107
+    min: -0.9667373299598694
+    offset: -15
+    scale: 0.06444915322696461
+  '371':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.054121017456055
+    min: -12.239799499511719
+    offset: -140
+    scale: 0.08742713928222656
+  '376':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 26.240227699279785
+    min: -2.4776182174682617
+    offset: -22
+    scale: 0.11261900359509038
+  '378':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 29.96483087539673
+    min: -3.8450446128845215
+    offset: -29
+    scale: 0.13258774701286766
+  '380':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 5.285285472869873
+    min: -7.927929401397705
+    offset: -153
+    scale: 0.05181652891869638
+  '385':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.612503051757812
+    min: -1.3113784790039062
+    offset: -21
+    scale: 0.06244659423828125
+  '388':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.975531578063965
+    min: -10.389052391052246
+    offset: -124
+    scale: 0.08378268223182828
+  '393':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.998519539833069
+    min: -1.0384868383407593
+    offset: -22
+    scale: 0.04720394658107384
+  '396':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.208921432495117
+    min: -6.313382148742676
+    offset: -153
+    scale: 0.04126393561269723
+  '401':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.380849003791809
+    min: -1.0591353178024292
+    offset: -32
+    scale: 0.03309797773174211
+  '403':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.5476793050766
+    min: -1.3736006021499634
+    offset: -22
+    scale: 0.062436391793045345
+  '405':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.411296844482422
+    min: -10.522621154785156
+    offset: -117
+    scale: 0.08993693333046109
+  '410':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.390755295753479
+    min: -1.0545324087142944
+    offset: -20
+    scale: 0.05272661844889323
+  '413':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 3.8626537322998047
+    min: -7.081531524658203
+    offset: -165
+    scale: 0.04291837355669807
+  '418':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.770124077796936
+    min: -1.1149953603744507
+    offset: -32
+    scale: 0.03484360563988779
+  '420':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.526002407073975
+    min: -1.371553897857666
+    offset: -22
+    scale: 0.062343358058555454
+  '422':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.970427513122559
+    min: -10.884720802307129
+    offset: -127
+    scale: 0.08570646398207721
+  '427':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.02977168560028
+    min: -1.0934687852859497
+    offset: -23
+    scale: 0.04754211949367149
+  '430':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.965481281280518
+    min: -6.0449347496032715
+    offset: -140
+    scale: 0.043178102081897214
+  '435':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.549285531044006
+    min: -1.0960296392440796
+    offset: -24
+    scale: 0.04566790262858073
+  '437':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.844251036643982
+    min: -1.7764745950698853
+    offset: -29
+    scale: 0.0612577475753485
+  '439':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.903105735778809
+    min: -10.9186372756958
+    offset: -122
+    scale: 0.08949703141754749
+  '444':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.892256021499634
+    min: -1.1228740215301514
+    offset: -22
+    scale: 0.051039725658940334
+  '447':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.368361473083496
+    min: -10.953673362731934
+    offset: -131
+    scale: 0.08361582288555071
+  '452':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.410228610038757
+    min: -1.0815821886062622
+    offset: -24
+    scale: 0.04506592470056871
+  '454':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.687248229980469
+    min: -2.5464649200439453
+    offset: -40
+    scale: 0.06366162019617418
+  '456':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.9349236488342285
+    min: -7.402385234832764
+    offset: -153
+    scale: 0.04838160346536075
+  '461':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.248283624649048
+    min: -1.2641055583953857
+    offset: -28
+    scale: 0.04514662424723307
+  '464':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.0048604011535645
+    min: -7.310265064239502
+    offset: -140
+    scale: 0.05221617829565908
+  '469':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.777015924453735
+    min: -1.3888061046600342
+    offset: -25
+    scale: 0.05555224325142655
+  '471':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 19.681055068969727
+    min: -3.1310768127441406
+    offset: -35
+    scale: 0.0894593407126034
+  '473':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.631429195404053
+    min: -6.947144031524658
+    offset: -153
+    scale: 0.04540616951736749
+  '478':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 9.077149748802185
+    min: -1.1647669076919556
+    offset: -29
+    scale: 0.04016437904507506
+  '481':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.007309913635254
+    min: -12.90569019317627
+    offset: -127
+    scale: 0.10161960826200597
+  '486':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 24.138391494750977
+    min: -2.507884979248047
+    offset: -24
+    scale: 0.1044952018588197
+  '488':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 26.645129203796387
+    min: -3.286623954772949
+    offset: -28
+    scale: 0.1173794241512523
+  '490':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.450813293457031
+    min: -11.215507507324219
+    offset: -132
+    scale: 0.08496596392463235
+  '495':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.52705430984497
+    min: -1.0937199592590332
+    offset: -24
+    scale: 0.045571663800407856
+  '498':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 9.994732856750488
+    min: -9.916647911071777
+    offset: -127
+    scale: 0.07808384614832262
+  '503':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.05865740776062
+    min: -1.9323055744171143
+    offset: -29
+    scale: 0.06663122738108915
+  '505':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 27.64934206008911
+    min: -3.967618465423584
+    offset: -32
+    scale: 0.12398808049220665
+  '507':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.4237642288208
+    min: -11.158095359802246
+    offset: -126
+    scale: 0.08855631211224724
+  '512':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.377853870391846
+    min: -1.127976894378662
+    offset: -23
+    scale: 0.04904247358733532
+  '515':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 22.517614364624023
+    min: -16.543550491333008
+    offset: -108
+    scale: 0.1531810386508119
+  '520':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 22.498453855514526
+    min: -1.7087433338165283
+    offset: -18
+    scale: 0.09493018505620021
+  '522':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 34.51501488685608
+    min: -3.585975408554077
+    offset: -24
+    scale: 0.14941564821729472
+  '524':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.237543106079102
+    min: -15.600341796875
+    offset: -129
+    scale: 0.12093288197236902
+  '529':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 15.122036457061768
+    min: -1.5711207389831543
+    offset: -24
+    scale: 0.06546336155311734
+  '532':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.958972930908203
+    min: -16.9935302734375
+    offset: -140
+    scale: 0.12138236550723805
+  '537':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.905688762664795
+    min: -1.7152390480041504
+    offset: -28
+    scale: 0.06125854043399587
+  '540':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.60402774810791
+    min: -8.03968620300293
+    offset: -140
+    scale: 0.05742632922004251
+  '545':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.069985628128052
+    min: -1.529346227645874
+    offset: -25
+    scale: 0.06117385041479971
+  '547':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.407545566558838
+    min: -1.635791301727295
+    offset: -26
+    scale: 0.06291504654229856
+  '549':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 4.8304595947265625
+    min: -11.166518211364746
+    offset: -178
+    scale: 0.06273324629839729
+  '554':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 9.393449902534485
+    min: -1.5943011045455933
+    offset: -37
+    scale: 0.04308921963560815
+  '557':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.109086036682129
+    min: -11.022295951843262
+    offset: -127
+    scale: 0.08678973328833486
+  '562':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.080467104911804
+    min: -1.0984946489334106
+    offset: -23
+    scale: 0.047760634328804764
+  '564':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 14.001655340194702
+    min: -1.8668873310089111
+    offset: -30
+    scale: 0.062229579102759267
+  '566':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.076915740966797
+    min: -14.665416717529297
+    offset: -172
+    scale: 0.08526404885684742
+  '571':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 7.031160831451416
+    min: -1.4662137031555176
+    offset: -44
+    scale: 0.03332303739061543
+  '574':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.15078067779541
+    min: -10.39246654510498
+    offset: -129
+    scale: 0.08056175381529565
+  '579':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.09566879272461
+    min: -1.0489006042480469
+    offset: -24
+    scale: 0.04370419371361826
+  '581':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 13.923651456832886
+    min: -2.0697319507598877
+    offset: -33
+    scale: 0.06271915061801088
+  '583':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 3.265021324157715
+    min: -13.060084342956543
+    offset: -204
+    scale: 0.06402002222397749
+  '588':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.5785828828811646
+    min: -1.6446455717086792
+    offset: -51
+    scale: 0.03224795472388174
+  '591':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.77590560913086
+    min: -13.163858413696289
+    offset: -153
+    scale: 0.08603829028559666
+  '596':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 21.59064245223999
+    min: -2.2431836128234863
+    offset: -24
+    scale: 0.09346598456887638
+  '598':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 20.510723114013672
+    min: -2.529956817626953
+    offset: -28
+    scale: 0.09035560757506128
+  '600':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.9954833984375
+    min: -9.621047973632812
+    offset: -119
+    scale: 0.08084914263556986
+  '605':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.893942475318909
+    min: -0.9776614904403687
+    offset: -21
+    scale: 0.046555309669644225
+  '608':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.11773681640625
+    min: -8.988809585571289
+    offset: -114
+    scale: 0.0788492015763825
+  '613':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.134845435619354
+    min: -0.8964493870735168
+    offset: -19
+    scale: 0.04718154832428577
+  '616':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.564549446105957
+    min: -10.9465970993042
+    offset: -124
+    scale: 0.08827900606043199
+  '621':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 11.53642475605011
+    min: -1.0892761945724487
+    offset: -22
+    scale: 0.04951255274753945
+  '624':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.667905807495117
+    min: -9.632959365844727
+    offset: -121
+    scale: 0.07961123597388174
+  '629':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 10.740584373474121
+    min: -0.9638986587524414
+    offset: -21
+    scale: 0.04589993345971201
+  '632':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.954216003417969
+    min: -10.395998001098633
+    offset: -137
+    scale: 0.07588319217457491
+  '637':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 8.95715606212616
+    min: -1.0607157945632935
+    offset: -27
+    scale: 0.039285771987017465
+  '640':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.0748291015625
+    min: -12.557823181152344
+    offset: -130
+    scale: 0.0965986364028033
+  '645':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 12.117048978805542
+    min: -1.2589142322540283
+    offset: -24
+    scale: 0.05245475769042969
+  '648':
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.987506866455078
+    min: -38.70002365112305
+    offset: -216
+    scale: 0.17916678634344363
+  t.1:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.998046875
+    min: 0.0
+    offset: 0
+    scale: 0.00391390931372549
+param_encodings:
+  module_list.0.conv_0.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 8.321358680725098
+    min: -8.321358684600032
+    offset: -2147483648
+    scale: 3.874934597220287e-09
+  module_list.0.conv_0.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 6.782596111297607
+    min: -7.874709606170654
+    offset: -137
+    scale: 0.057479630264581416
+  module_list.1.conv_1.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 9.07593822479248
+    min: -9.075938229018794
+    offset: -2147483648
+    scale: 4.226313079250415e-09
+  module_list.1.conv_1.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.40184324979782104
+    min: -0.3686080574989319
+    offset: -122
+    scale: 0.003021377675673541
+  module_list.10.conv_10.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.910936117172241
+    min: -2.9109361185277516
+    offset: -2147483648
+    scale: 1.3555102602242267e-09
+  module_list.10.conv_10.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.7216269969940186
+    min: -0.6314237117767334
+    offset: -119
+    scale: 0.005306081210865694
+  module_list.100.conv_100.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.6887972354888916
+    min: -1.6887972362752992
+    offset: -2147483648
+    scale: 7.864074950457081e-10
+  module_list.100.conv_100.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.3238799571990967
+    min: -0.2618604302406311
+    offset: -114
+    scale: 0.002297021127214619
+  module_list.101.conv_101.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 0.88371342420578
+    min: -0.8837134246172912
+    offset: -2147483648
+    scale: 4.115111309184186e-10
+  module_list.101.conv_101.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.8170964121818542
+    min: -0.49334126710891724
+    offset: -96
+    scale: 0.005138971291336359
+  module_list.102.conv_102.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.1501754522323608
+    min: -1.150175452767953
+    offset: -2147483648
+    scale: 5.355921819656869e-10
+  module_list.102.conv_102.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.42356014251708984
+    min: -0.3162195682525635
+    offset: -109
+    scale: 0.002901096904979033
+  module_list.103.conv_103.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.829800605773926
+    min: -2.8298006070916544
+    offset: -2147483648
+    scale: 1.3177285935225218e-09
+  module_list.103.conv_103.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.7370113432407379
+    min: -0.4230991303920746
+    offset: -93
+    scale: 0.004549452837775735
+  module_list.104.conv_104.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.5005409717559814
+    min: -2.5005409729203865
+    offset: -2147483648
+    scale: 1.164405128415854e-09
+  module_list.104.conv_104.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4648498296737671
+    min: -0.622642993927002
+    offset: -146
+    scale: 0.004264677739610859
+  module_list.105.conv_105.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.7083213329315186
+    min: -3.7083213346583404
+    offset: -2147483648
+    scale: 1.7268216864477565e-09
+  module_list.105.conv_105.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.594397783279419
+    min: -1.147802710533142
+    offset: -168
+    scale: 0.0068321587992649455
+  module_list.12.conv_12.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 4.385309219360352
+    min: -4.38530922140242
+    offset: -2147483648
+    scale: 2.0420687372807508e-09
+  module_list.12.conv_12.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.2960923910140991
+    min: -0.23190456628799438
+    offset: -112
+    scale: 0.0020705763031454646
+  module_list.13.conv_13.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.8944461345672607
+    min: -2.8944461359150924
+    offset: -2147483648
+    scale: 1.3478315136931335e-09
+  module_list.13.conv_13.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.6652919054031372
+    min: -0.64982008934021
+    offset: -126
+    scale: 0.005157301940169989
+  module_list.14.conv_14.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.107452630996704
+    min: -2.107452631978063
+    offset: -2147483648
+    scale: 9.813591055469881e-10
+  module_list.14.conv_14.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.34842830896377563
+    min: -0.28620898723602295
+    offset: -115
+    scale: 0.0024887737105874453
+  module_list.16.conv_16.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 4.0656328201293945
+    min: -4.065632822022603
+    offset: -2147483648
+    scale: 1.893207813623642e-09
+  module_list.16.conv_16.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.7628505229949951
+    min: -0.5880305767059326
+    offset: -111
+    scale: 0.005297572940003638
+  module_list.17.conv_17.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.16968834400177
+    min: -1.1696883445464485
+    offset: -2147483648
+    scale: 5.446785802703577e-10
+  module_list.17.conv_17.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.27233460545539856
+    min: -0.23829278349876404
+    offset: -119
+    scale: 0.0020024603488398534
+  module_list.19.conv_19.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.2034239768981934
+    min: -3.203423978389904
+    offset: -2147483648
+    scale: 1.4917105335695223e-09
+  module_list.19.conv_19.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.5567381381988525
+    min: -0.710835337638855
+    offset: -143
+    scale: 0.004970876375834147
+  module_list.2.conv_2.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 4.129056453704834
+    min: -4.129056455627576
+    offset: -2147483648
+    scale: 1.922741744493868e-09
+  module_list.2.conv_2.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 1.7659794092178345
+    min: -1.779884696006775
+    offset: -128
+    scale: 0.01390534943225337
+  module_list.20.conv_20.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.1533021926879883
+    min: -2.1533021936906978
+    offset: -2147483648
+    scale: 1.0027094714765892e-09
+  module_list.20.conv_20.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.6067155003547668
+    min: -0.452958881855011
+    offset: -109
+    scale: 0.004155585812587364
+  module_list.22.conv_22.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.5479671955108643
+    min: -2.547967196697354
+    offset: -2147483648
+    scale: 1.1864896848319815e-09
+  module_list.22.conv_22.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.5285759568214417
+    min: -0.6234486699104309
+    offset: -138
+    scale: 0.004517743634242638
+  module_list.23.conv_23.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.588923454284668
+    min: -1.588923455024568
+    offset: -2147483648
+    scale: 7.399001415002011e-10
+  module_list.23.conv_23.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.41674813628196716
+    min: -0.46884170174598694
+    offset: -135
+    scale: 0.00347290132559982
+  module_list.25.conv_25.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.898305654525757
+    min: -3.898305656341047
+    offset: -2147483648
+    scale: 1.8152900302508133e-09
+  module_list.25.conv_25.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.6223015189170837
+    min: -0.7820072770118713
+    offset: -142
+    scale: 0.005507093317368451
+  module_list.26.conv_26.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.642642021179199
+    min: -2.6426420224097753
+    offset: -2147483648
+    scale: 1.2305760860488635e-09
+  module_list.26.conv_26.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.6458322703838348
+    min: -0.46691933274269104
+    offset: -107
+    scale: 0.004363731776966768
+  module_list.28.conv_28.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.70550274848938
+    min: -2.7055027497492277
+    offset: -2147483648
+    scale: 1.2598478932628537e-09
+  module_list.28.conv_28.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.6627452373504639
+    min: -0.5027722120285034
+    offset: -110
+    scale: 0.004570656664231244
+  module_list.29.conv_29.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.770324468612671
+    min: -2.770324469902704
+    offset: -2147483648
+    scale: 1.2900328589150234e-09
+  module_list.29.conv_29.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.8119401335716248
+    min: -0.5592170357704163
+    offset: -104
+    scale: 0.0053770869385962395
+  module_list.3.conv_3.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.726893901824951
+    min: -3.7268939035604216
+    offset: -2147483648
+    scale: 1.7354702127913114e-09
+  module_list.3.conv_3.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 1.1792182922363281
+    min: -1.3059110641479492
+    offset: -134
+    scale: 0.009745605319154029
+  module_list.31.conv_31.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.6768057346343994
+    min: -2.676805735880884
+    offset: -2147483648
+    scale: 1.2464848048430328e-09
+  module_list.31.conv_31.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.38098129630088806
+    min: -0.3606235086917877
+    offset: -124
+    scale: 0.0029082541372261795
+  module_list.32.conv_32.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.4141082763671875
+    min: -2.4141082774913443
+    offset: -2147483648
+    scale: 1.1241567681968884e-09
+  module_list.32.conv_32.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 1.0218396186828613
+    min: -0.5866116285324097
+    offset: -93
+    scale: 0.0063076519498638075
+  module_list.34.conv_34.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 4.668038845062256
+    min: -4.668038847235981
+    offset: -2147483648
+    scale: 2.173724978806442e-09
+  module_list.34.conv_34.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.39669299125671387
+    min: -0.39359378814697266
+    offset: -127
+    scale: 0.0030991638407987707
+  module_list.35.conv_35.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.1002979278564453
+    min: -2.1002979288344727
+    offset: -2147483648
+    scale: 9.780274372708391e-10
+  module_list.35.conv_35.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.9783889055252075
+    min: -0.8560903072357178
+    offset: -119
+    scale: 0.0071940361284742165
+  module_list.37.conv_37.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 5.6143107414245605
+    min: -5.614310744038928
+    offset: -2147483648
+    scale: 2.6143671684148386e-09
+  module_list.37.conv_37.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.14840300381183624
+    min: -0.09110817313194275
+    offset: -97
+    scale: 0.0009392595174265842
+  module_list.38.conv_38.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.0990703105926514
+    min: -2.0990703115701073
+    offset: -2147483648
+    scale: 9.774557834351935e-10
+  module_list.38.conv_38.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 1.0452210307121277
+    min: -0.6206000447273254
+    offset: -95
+    scale: 0.006532631668390012
+  module_list.39.conv_39.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.7607717514038086
+    min: -2.760771752689393
+    offset: -2147483648
+    scale: 1.2855845283201864e-09
+  module_list.39.conv_39.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.07382894307374954
+    min: -0.07325216382741928
+    offset: -127
+    scale: 0.0005767886545143875
+  module_list.41.conv_41.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.2577009201049805
+    min: -2.2577009211563044
+    offset: -2147483648
+    scale: 1.0513239173015134e-09
+  module_list.41.conv_41.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.9775362610816956
+    min: -0.4468737244606018
+    offset: -80
+    scale: 0.0055859215119305776
+  module_list.42.conv_42.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.021113157272339
+    min: -2.021113158213493
+    offset: -2147483648
+    scale: 9.411541550483057e-10
+  module_list.42.conv_42.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.19677971303462982
+    min: -0.2014649361371994
+    offset: -129
+    scale: 0.0015617437222424676
+  module_list.44.conv_44.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.907749891281128
+    min: -1.9077498921694933
+    offset: -2147483648
+    scale: 8.88365270648847e-10
+  module_list.44.conv_44.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.7235666513442993
+    min: -0.7292640209197998
+    offset: -128
+    scale: 0.005697375185349409
+  module_list.45.conv_45.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.5197486877441406
+    min: -1.5197486884518288
+    offset: -2147483648
+    scale: 7.07688130648727e-10
+  module_list.45.conv_45.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4485136568546295
+    min: -0.37429913878440857
+    offset: -116
+    scale: 0.0032267168456432864
+  module_list.47.conv_47.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.5334537029266357
+    min: -2.533453704106367
+    offset: -2147483648
+    scale: 1.1797313131887313e-09
+  module_list.47.conv_47.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.5671532154083252
+    min: -0.5368473529815674
+    offset: -124
+    scale: 0.004329413993685853
+  module_list.48.conv_48.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.603278398513794
+    min: -1.6032783992603787
+    offset: -2147483648
+    scale: 7.465846833122795e-10
+  module_list.48.conv_48.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.7056488692760468
+    min: -0.3052525818347931
+    offset: -77
+    scale: 0.003964319416120941
+  module_list.5.conv_5.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.630309820175171
+    min: -3.6303098218656658
+    offset: -2147483648
+    scale: 1.6904947449758955e-09
+  module_list.5.conv_5.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.3597869575023651
+    min: -0.4897100627422333
+    offset: -147
+    scale: 0.0033313608637043075
+  module_list.50.conv_50.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.8030705451965332
+    min: -1.8030705460361534
+    offset: -2147483648
+    scale: 8.396201515738635e-10
+  module_list.50.conv_50.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4605101943016052
+    min: -0.47147470712661743
+    offset: -129
+    scale: 0.0036548427506989125
+  module_list.51.conv_51.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.93925940990448
+    min: -1.939259410807518
+    offset: -2147483648
+    scale: 9.030380336602768e-10
+  module_list.51.conv_51.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.549377828836441
+    min: -0.38456448912620544
+    offset: -105
+    scale: 0.0036625188939711627
+  module_list.53.conv_53.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.7354949712753296
+    min: -1.7354949720834825
+    offset: -2147483648
+    scale: 8.081528228165035e-10
+  module_list.53.conv_53.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.3613329827785492
+    min: -0.30154410004615784
+    offset: -116
+    scale: 0.0025995179718615964
+  module_list.54.conv_54.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.1705989837646484
+    min: -3.1705989852410736
+    offset: -2147483648
+    scale: 1.4764252050039701e-09
+  module_list.54.conv_54.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.944229781627655
+    min: -0.8005426526069641
+    offset: -117
+    scale: 0.006842244840135761
+  module_list.56.conv_56.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.3768231868743896
+    min: -1.376823187515523
+    offset: -2147483648
+    scale: 6.411332578936233e-10
+  module_list.56.conv_56.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.47352156043052673
+    min: -0.38284721970558167
+    offset: -114
+    scale: 0.003358308941710229
+  module_list.57.conv_57.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.3134963512420654
+    min: -1.31349635185371
+    offset: -2147483648
+    scale: 6.116444020782178e-10
+  module_list.57.conv_57.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.501491129398346
+    min: -0.3865661025047302
+    offset: -111
+    scale: 0.003482577380012063
+  module_list.59.conv_59.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.8570197820663452
+    min: -1.8570197829310875
+    offset: -2147483648
+    scale: 8.647422226756287e-10
+  module_list.59.conv_59.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.40368641912937164
+    min: -0.22019259631633759
+    offset: -90
+    scale: 0.002446584374296899
+  module_list.6.conv_6.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.7896461486816406
+    min: -3.789646150446332
+    offset: -2147483648
+    scale: 1.7646915048576575e-09
+  module_list.6.conv_6.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.5150338113307953
+    min: -0.4724370539188385
+    offset: -122
+    scale: 0.0038724347656848386
+  module_list.60.conv_60.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.8803961277008057
+    min: -1.8803961285764335
+    offset: -2147483648
+    scale: 8.756276818813912e-10
+  module_list.60.conv_60.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.9733484983444214
+    min: -0.8122907876968384
+    offset: -116
+    scale: 0.0070025070040833715
+  module_list.62.conv_62.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.9093449115753174
+    min: -2.9093449129300866
+    offset: -2147483648
+    scale: 1.3547692973772467e-09
+  module_list.62.conv_62.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.10466707497835159
+    min: -0.06425762921571732
+    offset: -97
+    scale: 0.0006624498203688977
+  module_list.63.conv_63.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.803065299987793
+    min: -1.8030653008274107
+    offset: -2147483648
+    scale: 8.396177090832082e-10
+  module_list.63.conv_63.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 1.4297265410423279
+    min: -0.6899262070655823
+    offset: -83
+    scale: 0.008312363718070237
+  module_list.64.conv_64.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.2570300102233887
+    min: -2.2570300112744004
+    offset: -2147483648
+    scale: 1.0510115005422385e-09
+  module_list.64.conv_64.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.12380009889602661
+    min: -0.18570014834403992
+    offset: -153
+    scale: 0.0012137264597649668
+  module_list.66.conv_66.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.8381801843643188
+    min: -1.8381801852202881
+    offset: -2147483648
+    scale: 8.55969351353258e-10
+  module_list.66.conv_66.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 1.0193908214569092
+    min: -0.556031346321106
+    offset: -90
+    scale: 0.006178126148149079
+  module_list.67.conv_67.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.6353058815002441
+    min: -1.6353058822617428
+    offset: -2147483648
+    scale: 7.614986422759214e-10
+  module_list.67.conv_67.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4621668756008148
+    min: -0.385693222284317
+    offset: -116
+    scale: 0.00332494156033385
+  module_list.69.conv_69.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.5869009494781494
+    min: -1.5869009502171079
+    offset: -2147483648
+    scale: 7.389583393079731e-10
+  module_list.69.conv_69.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4963738024234772
+    min: -0.4142400324344635
+    offset: -116
+    scale: 0.0035710346465017283
+  module_list.7.conv_7.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 16.871952056884766
+    min: -16.871952064741382
+    offset: -2147483648
+    scale: 7.856614917861941e-09
+  module_list.7.conv_7.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.5950129330158234
+    min: -0.3652927577495575
+    offset: -97
+    scale: 0.0037659046696681604
+  module_list.70.conv_70.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.6023037433624268
+    min: -1.6023037441085577
+    offset: -2147483648
+    scale: 7.461308241396014e-10
+  module_list.70.conv_70.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.29003381729125977
+    min: -0.2344954013824463
+    offset: -114
+    scale: 0.0020569773281321805
+  module_list.72.conv_72.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.033291816711426
+    min: -2.033291817658251
+    offset: -2147483648
+    scale: 9.468252852830342e-10
+  module_list.72.conv_72.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.41521206498146057
+    min: -0.4184814393520355
+    offset: -128
+    scale: 0.003269386291503906
+  module_list.73.conv_73.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.0650413036346436
+    min: -2.0650413045962535
+    offset: -2147483648
+    scale: 9.616097922419447e-10
+  module_list.73.conv_73.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.8616502285003662
+    min: -0.574433445930481
+    offset: -102
+    scale: 0.005631700684042538
+  module_list.75.conv_75.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 0.6093465685844421
+    min: -0.6093465688681913
+    offset: -2147483648
+    scale: 2.8374910767571594e-10
+  module_list.75.conv_75.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.31226861476898193
+    min: -0.30982905626296997
+    offset: -127
+    scale: 0.0024395987099292233
+  module_list.76.conv_76.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.5036985874176025
+    min: -1.5036985881178169
+    offset: -2147483648
+    scale: 7.002142202657726e-10
+  module_list.76.conv_76.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.10318882763385773
+    min: -0.12562116980552673
+    offset: -140
+    scale: 0.0008972941076054292
+  module_list.77.conv_77.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 0.8596823215484619
+    min: -0.8596823219487827
+    offset: -2147483648
+    scale: 4.003207767143765e-10
+  module_list.77.conv_77.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.2936443090438843
+    min: -0.4263489842414856
+    offset: -151
+    scale: 0.0028235031109230192
+  module_list.78.conv_78.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.259425401687622
+    min: -1.2594254022740878
+    offset: -2147483648
+    scale: 5.864656540910191e-10
+  module_list.78.conv_78.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.13077344000339508
+    min: -0.1297517567873001
+    offset: -127
+    scale: 0.001021667438394883
+  module_list.79.conv_79.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 0.8530210852622986
+    min: -0.8530210856595175
+    offset: -2147483648
+    scale: 3.9721889684885624e-10
+  module_list.79.conv_79.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.41628703474998474
+    min: -0.35855379700660706
+    offset: -118
+    scale: 0.0030385914970846735
+  module_list.80.conv_80.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.953786611557007
+    min: -2.953786612932471
+    offset: -2147483648
+    scale: 1.3754640766105014e-09
+  module_list.80.conv_80.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.3262590169906616
+    min: -0.350131630897522
+    offset: -132
+    scale: 0.0026525123446595436
+  module_list.81.conv_81.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.438577175140381
+    min: -3.4385771767415934
+    offset: -2147483648
+    scale: 1.601212274628502e-09
+  module_list.81.conv_81.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4692370891571045
+    min: -0.6703386306762695
+    offset: -150
+    scale: 0.004468924391503428
+  module_list.84.conv_84.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.0681265592575073
+    min: -1.0681265597548926
+    offset: -2147483648
+    scale: 4.973851888230502e-10
+  module_list.84.conv_84.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4890437126159668
+    min: -0.558907151222229
+    offset: -136
+    scale: 0.004109611230738022
+  module_list.87.conv_87.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 0.9320000410079956
+    min: -0.932000041441992
+    offset: -2147483648
+    scale: 4.3399633906874433e-10
+  module_list.87.conv_87.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.24284453690052032
+    min: -0.23719699680805206
+    offset: -126
+    scale: 0.0018825158184649898
+  module_list.88.conv_88.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.099610447883606
+    min: -1.099610448395652
+    offset: -2147483648
+    scale: 5.120460169369597e-10
+  module_list.88.conv_88.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.1708463579416275
+    min: -0.16171716153621674
+    offset: -124
+    scale: 0.001304170664618997
+  module_list.89.conv_89.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 0.6052178740501404
+    min: -0.6052178743319669
+    offset: -2147483648
+    scale: 2.818265344630773e-10
+  module_list.89.conv_89.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.28864556550979614
+    min: -0.3627226948738098
+    offset: -142
+    scale: 0.0025543853348376703
+  module_list.9.conv_9.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.636704921722412
+    min: -3.636704923415885
+    offset: -2147483648
+    scale: 1.6934726961962343e-09
+  module_list.9.conv_9.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.6782999038696289
+    min: -0.8523768186569214
+    offset: -142
+    scale: 0.006002653813829609
+  module_list.90.conv_90.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.8334392309188843
+    min: -1.833439231772646
+    offset: -2147483648
+    scale: 8.537616728677629e-10
+  module_list.90.conv_90.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.39612358808517456
+    min: -0.3005075454711914
+    offset: -110
+    scale: 0.002731886798260259
+  module_list.91.conv_91.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.3653596639633179
+    min: -1.365359664599113
+    offset: -2147483648
+    scale: 6.357951390552861e-10
+  module_list.91.conv_91.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.562495231628418
+    min: -0.47689807415008545
+    offset: -117
+    scale: 0.004076052179523543
+  module_list.92.conv_92.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 2.1661458015441895
+    min: -2.16614580255288
+    offset: -2147483648
+    scale: 1.00869024291303e-09
+  module_list.92.conv_92.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4587305188179016
+    min: -0.5242633819580078
+    offset: -136
+    scale: 0.0038548780422584684
+  module_list.93.conv_93.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 3.072610378265381
+    min: -3.072610379696177
+    offset: -2147483648
+    scale: 1.4307957048044432e-09
+  module_list.93.conv_93.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.4526994824409485
+    min: -0.8299492001533508
+    offset: -165
+    scale: 0.005029994833703135
+  module_list.96.conv_96.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.2153071165084839
+    min: -1.2153071170744054
+    offset: -2147483648
+    scale: 5.65921476611125e-10
+  module_list.96.conv_96.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.7155126929283142
+    min: -0.8049517273902893
+    offset: -135
+    scale: 0.005962605569876877
+  module_list.99.conv_99.bias:
+  - bitwidth: 32
+    is_symmetric: 'True'
+    max: 1.8280633687973022
+    min: -1.8280633696485606
+    offset: -2147483648
+    scale: 8.512583419906724e-10
+  module_list.99.conv_99.weight:
+  - bitwidth: 8
+    is_symmetric: 'False'
+    max: 0.23522640764713287
+    min: -0.2408270388841629
+    offset: -129
+    scale: 0.0018668762609070422
+version: 0.4.0
